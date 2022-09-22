@@ -10,7 +10,7 @@
 * Shopkeeper - Box a cake from the shelf
 * - Receipt to keep track
 
-# Three core concepts contd.
+# Three core concepts continued.
 | Cake Shop Scenario | Redux   | Purpose                             |
 |--------------------|---------|-------------------------------------|
 | Shop               | Store   | Holds the state of your application |
