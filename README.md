@@ -89,3 +89,13 @@ Specify how the app’s state changes in response to actions sent to the store
 Function that accepts state and action as arguments, and returns the next state of the application
 
 (previousState, action) => newState
+
+# Redux Store
+One store for the entire application
+
+Responsibilities
+* Holds application state
+* Allows access to state via **getState()**
+* Allows state to be updated via **dispatch(action)**
+* Registers listeners via **subscribe(listener)**
+* Handles unregistering of listeners via the function returned by **subscribe(listener)**
