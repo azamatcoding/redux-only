@@ -82,3 +82,10 @@ const reducer = (state = initialState, action) => {
 * Plain JavaScript objects
 * Have a **type** property that describes something that happened in the application
 * The **type** property is typically defined as string constants
+
+# Reducers
+Specify how the app’s state changes in response to actions sent to the store
+
+Function that accepts state and action as arguments, and returns the next state of the application
+
+(previousState, action) => newState
