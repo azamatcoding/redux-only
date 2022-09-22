@@ -74,4 +74,4 @@ const reducer = (state = initialState, action) => {
 }
 ```
 
-![Three principle](../../Documents/ShareX/Screenshots/2022-09/chrome_5mO7mudpXB.png)
+![Three principle](./three-principle.png)
